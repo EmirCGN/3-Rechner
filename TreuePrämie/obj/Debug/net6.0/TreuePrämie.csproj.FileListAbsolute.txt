@@ -1,0 +1,15 @@
+C:\Users\m.emir\source\repos\TreuePrämie\bin\Debug\net6.0\TreuePrämie.exe
+C:\Users\m.emir\source\repos\TreuePrämie\bin\Debug\net6.0\TreuePrämie.deps.json
+C:\Users\m.emir\source\repos\TreuePrämie\bin\Debug\net6.0\TreuePrämie.runtimeconfig.json
+C:\Users\m.emir\source\repos\TreuePrämie\bin\Debug\net6.0\TreuePrämie.dll
+C:\Users\m.emir\source\repos\TreuePrämie\bin\Debug\net6.0\TreuePrämie.pdb
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.csproj.AssemblyReference.cache
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.AssemblyInfoInputs.cache
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.AssemblyInfo.cs
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.csproj.CoreCompileInputs.cache
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.dll
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\refint\TreuePrämie.dll
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.pdb
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\TreuePrämie.genruntimeconfig.cache
+C:\Users\m.emir\source\repos\TreuePrämie\obj\Debug\net6.0\ref\TreuePrämie.dll

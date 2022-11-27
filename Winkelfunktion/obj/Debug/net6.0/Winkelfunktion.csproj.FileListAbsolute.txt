@@ -1,0 +1,15 @@
+C:\Users\m.emir\source\repos\Winkelfunktion\bin\Debug\net6.0\Winkelfunktion.exe
+C:\Users\m.emir\source\repos\Winkelfunktion\bin\Debug\net6.0\Winkelfunktion.deps.json
+C:\Users\m.emir\source\repos\Winkelfunktion\bin\Debug\net6.0\Winkelfunktion.runtimeconfig.json
+C:\Users\m.emir\source\repos\Winkelfunktion\bin\Debug\net6.0\Winkelfunktion.dll
+C:\Users\m.emir\source\repos\Winkelfunktion\bin\Debug\net6.0\Winkelfunktion.pdb
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.csproj.AssemblyReference.cache
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.AssemblyInfoInputs.cache
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.AssemblyInfo.cs
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.csproj.CoreCompileInputs.cache
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.dll
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\refint\Winkelfunktion.dll
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.pdb
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\Winkelfunktion.genruntimeconfig.cache
+C:\Users\m.emir\source\repos\Winkelfunktion\obj\Debug\net6.0\ref\Winkelfunktion.dll
