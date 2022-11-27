@@ -22,5 +22,15 @@ class Program
             double erg = Math.Cos(auswahl);
             Console.WriteLine("Ihr Ergebnis ist: {0}", erg);
         }
+        else if (menu == "Sinus")
+        {
+             double erg = Math.Sin(auswahl);
+            Console.WriteLine("Ihr Ergebnis ist: {0}", erg);
+        }
+         else if (menu == "Tangens")
+        {
+             double erg = Math.Tan(auswahl);
+            Console.WriteLine("Ihr Ergebnis ist: {0}", erg);
+        }
     }
 }

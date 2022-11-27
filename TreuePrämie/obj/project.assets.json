@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.emir\\source\\repos\\TreuePrämie\\TreuePrämie.csproj",
+      "projectUniqueName": "C:\\Users\\m.emir\\Source\\Repos\\BMI_Calculator\\TreuePrämie\\TreuePrämie.csproj",
       "projectName": "TreuePrämie",
-      "projectPath": "C:\\Users\\m.emir\\source\\repos\\TreuePrämie\\TreuePrämie.csproj",
+      "projectPath": "C:\\Users\\m.emir\\Source\\Repos\\BMI_Calculator\\TreuePrämie\\TreuePrämie.csproj",
       "packagesPath": "C:\\Users\\m.emir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.emir\\source\\repos\\TreuePrämie\\obj\\",
+      "outputPath": "C:\\Users\\m.emir\\Source\\Repos\\BMI_Calculator\\TreuePrämie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.emir\\AppData\\Roaming\\NuGet\\NuGet.Config"
